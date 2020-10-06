@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "54107098469",
+    "firebase_url": "https://sec-app-5ec69.firebaseio.com",
+    "project_id": "sec-app-5ec69",
+    "storage_bucket": "sec-app-5ec69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54107098469:android:a3ff854566951ecfd9e58c",
+        "android_client_info": {
+          "package_name": "com.example.sectaryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54107098469-bmeemu9hft30c35j8lqbkou9ck39uk0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxyGzTXG-qOrnwZBIKPpbkJiNZn9BQ9wY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54107098469-bmeemu9hft30c35j8lqbkou9ck39uk0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
